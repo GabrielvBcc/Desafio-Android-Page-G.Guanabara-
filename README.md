@@ -1,2 +1,2 @@
-# Desafio-Android-Page-G.Guanabara-
- estudos html/css android
+# Desafio Android.
+ Estudos html/css android, com professor Guanabara.
